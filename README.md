@@ -3,7 +3,6 @@
 - 🔭 Hoje trabalho em uma empresa de frios e laticinios
 - 🌱 Iniciante na area de Engenharia de Software
 - 📫 Contate-me no email: victoryudiueda@gmail.com 
-- 😄 Pronomes: Ele/Dele
 
 
 <div>
